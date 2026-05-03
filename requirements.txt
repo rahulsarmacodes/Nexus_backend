@@ -1,0 +1,12 @@
+#fastapi requirements
+fastapi
+uvicorn
+
+#data validation
+pydantic
+
+#environment variable management
+python-dotenv
+
+#database
+sqlalchemy
